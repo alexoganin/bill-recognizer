@@ -1,1 +1,4 @@
 python-doctr==1.0.0
+matplotlib==3.10.5
+mplcursors==0.6
+HEIC2PNG==1.1.4
